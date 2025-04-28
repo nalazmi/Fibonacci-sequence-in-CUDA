@@ -1,4 +1,4 @@
-# Fibonacci Sequence in CUDA (Google Colab Example)
+# Fibonacci Sequence in CUDA 
 
 This repository contains a Python script demonstrating the computation of the Fibonacci sequence using a CUDA kernel within a Google Colaboratory environment. It also includes a simple sequential Python implementation for performance comparison.
 
